@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ca.ciccc.java.main","h":"","u":""},{"l":"ca.ciccc.java.model","h":"","u":""}]
